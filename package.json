@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "esprima": "^4.0.1",
-    "moo": "^0.5.2"
-  }
-}
